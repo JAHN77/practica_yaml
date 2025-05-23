@@ -1,0 +1,13 @@
+# This is a sample YAML file
+person:
+  name: John Doe
+  age: 30
+  city: New York
+  hobbies:
+    - reading
+    - traveling
+    - swimming
+
+scripts: |
+  touch hola.txt
+  echo "Hello, World!";
